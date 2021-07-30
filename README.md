@@ -1,1 +1,1 @@
-# HashingAlgorithmDictionary
+# Hashing Algorithm
